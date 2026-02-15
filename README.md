@@ -1,4 +1,4 @@
-# Assignment 6 ERA course
+# MNIST Digit recognizer
 
 ## MNIST dataset
 
