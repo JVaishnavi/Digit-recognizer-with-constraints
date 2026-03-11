@@ -19,9 +19,8 @@ The objective of this model is to get an accuracy on 99.4%+ using the given cond
 
 * 99.4% validation accuracy
 * Less than 20k Parameters
-* You can use anything from above you want. 
 * Less than 20 Epochs
-* Have used BN, Dropout
+* Have to use Batch Normalization, Dropout
 
 ## Model Architecture
 
